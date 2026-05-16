@@ -5,6 +5,4 @@
  -->
  
 - 👋 Hi, I’m Jiwoo Hong
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Svelt, Kubernetes, Kotlin
 - 📫 How to reach me uzihoon.dev@gmail.com
